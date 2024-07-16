@@ -1,0 +1,2 @@
+This is a test of github!
+I moved the file to test folder.
